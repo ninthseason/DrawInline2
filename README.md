@@ -1,6 +1,8 @@
 ## DrawInline2 - 控制鼠标，自动绘画
 
-![](./docs/vrc.mp4)
+[查看展示视频](./docs/vrc.mp4)
+
+---
 
 本项目是 [DrawInline](https://github.com/ninthseason/drawinline) 的改进，将鼠标控制器由 PyAutoGUI 换为驱动级的 [pyinterception](https://github.com/kennyhml/pyinterception)，从而能在更多场景中工作。此外，精简了大量代码。
 
